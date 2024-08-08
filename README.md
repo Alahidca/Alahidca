@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alahidca
+- 👋 Hi, I’m Kristoff!
 - 👀 I’m interested in Learning new things more on coding Frontend and Backend.
 - 🌱 I’m currently learning and has my interest in Web Programming for both front and backend
 - 💞️ I’m looking for opportunity such as internship/seminar or even a bootcamp which can help me explore and learn more about Web Programming
